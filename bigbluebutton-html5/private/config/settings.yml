@@ -7,10 +7,10 @@ public:
     listenOnlyMode: true
     forceListenOnly: false
     skipCheck: false
-    clientTitle: BigBlueButton
-    appName: BigBlueButton HTML5 Client
+    clientTitle: "Онлайн Гимназия №1"
+    appName: "Онлайн Гимназия №1"
     bbbServerVersion: 2.2-dev
-    copyright: "©2019 BigBlueButton Inc."
+    copyright: "©2018 Онлайн Гимназия №1"
     html5ClientBuild: HTML5_CLIENT_VERSION
     helpLink: https://bigbluebutton.org/html5/
     lockOnJoin: true
